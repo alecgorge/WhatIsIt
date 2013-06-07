@@ -35,7 +35,7 @@ entities:
   '48;0': Mob
   '49;0': Monster
   '50;0': Creeper
-  '51;0': Skeleton 
+  '51;0': Skeleton
   '52;0': Spider
   '53;0': Giant
   '54;0': Zombie
@@ -93,12 +93,12 @@ items:
   '2;0': Grass
   '3;0': Dirt
   '4;0': Cobblestone
-  '5;0': Oak Plank
-  '5;1': Pine Plank
-  '5;2': Birch Plank
-  '5;3': Jungle Plank
+  '5;0': Oak Wood Planks
+  '5;1': Spruce Wood Planks
+  '5;2': Birch Wood Planks
+  '5;3': Jungle Wood Planks
   '6;0': Oak Sapling
-  '6;1': Pine Sapling
+  '6;1': Spruce Sapling
   '6;2': Birch Sapling
   '6;3': Jungle Sapling
   '7;0': Bedrock
@@ -112,11 +112,11 @@ items:
   '15;0': Iron Ore
   '16;0': Coal Ore
   '17;0': Oak Log
-  '17;1': Pine Log
+  '17;1': Spruce Log
   '17;2': Birch Log
   '17;3': Jungle Log
   '18;0': Oak Leaves
-  '18;1': Pine Leaves
+  '18;1': Spruce Leaves
   '18;2': Birch Leaves
   '18;3': Jungle Leaves
   '19;0': Sponge
@@ -152,7 +152,7 @@ items:
   '35;10': Purple Wool
   '35;11': Blue Wool
   '35;12': Brown Wool
-  '35;13': Dark Green Wool
+  '35;13': Green Wool
   '35;14': Red Wool
   '35;15': Black Wool
   '36;0': Block moved by Piston
@@ -213,7 +213,7 @@ items:
   '52;98': Ocelot Spawner
   '52;99': Iron Golem Spawner
   '52;120': Villager Spawner
-  '53;0': Oak Plank Stairs
+  '53;0': Oak Wood Stairs
   '54;0': Chest
   '55;0': Redstone Wire
   '56;0': Diamond Ore
@@ -238,11 +238,11 @@ items:
   '75;0': Redstone Torch (off)
   '76;0': Redstone Torch (on)
   '77;0': Button
-  '78;0': Snow
+  '78;0': 'Snow (cover)'
   '79;0': Ice
   '80;0': Snow Block
   '81;0': Cactus
-  '82;0': Clay Block
+  '82;0': 'Clay (block)'
   '83;0': Sugar Cane
   '84;0': Jukebox
   '85;0': Fence
@@ -268,7 +268,7 @@ items:
   '100;0': Huge Red Mushroom
   '101;0': Iron Bars
   '102;0': Glass Pane
-  '103;0': Melon
+  '103;0': 'Melon (block)'
   '104;0': Pumpkin Stem
   '105;0': Melon Stem
   '106;0': Vines
@@ -290,14 +290,14 @@ items:
   '122;0': Dragon Egg
   '123;0': Redstone Lamp (off)
   '124;0': Redstone Lamp (on)
-  '125;0': Oak Plank Double Slab
-  '125;1': Pine Plank Double Slab
-  '125;2': Birch Plank Double Slab
-  '125;3': Jungle Plank Double Slab
-  '126;0': Oak Plank Slab
-  '126;1': Pine Plank Slab
-  '126;2': Birch Plank Slab
-  '126;3': Jungle Plank Slab
+  '125;0': Oak Wood Double Slab
+  '125;1': Spruce Wood Double Slab
+  '125;2': Birch Wood Double Slab
+  '125;3': Jungle Wood Double Slab
+  '126;0': Oak Wood Slab
+  '126;1': Spruce Wood Slab
+  '126;2': Birch Wood Slab
+  '126;3': Jungle Wood Slab
   '127;0': Cocoa Plant
   '128;0': Sandstone Stairs
   '129;0': Emerald Ore
@@ -305,9 +305,9 @@ items:
   '131;0': Tripwire Hook
   '132;0': Tripwire
   '133;0': Block of Emerald
-  '134;0': Pine Plank Stairs
-  '135;0': Birch Plank Stairs
-  '136;0': Jungle Plank Stairs
+  '134;0': Spruce Wood Stairs
+  '135;0': Birch Wood Stairs
+  '136;0': Jungle Wood Stairs
   '137;0': Command Block
   '138;0': Beacon
   '139;0': Cobblestone Wall
@@ -340,7 +340,7 @@ items:
   '145;9': Very Damaged Anvil
   '145;10': Very Damaged Anvil
   '145;11': Very Damaged Anvil
-  '146;0': Trapped Chest 
+  '146;0': Trapped Chest
   '147;0': Weighted Pressure Plate (Light)
   '148;0': Weighted Pressure Plate (Heavy)
   '149;0': Redstone Comparator (inactive)
